@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xAbhay
+- 👋 Hi, I’m Abhay
 - 👀 I’m interested in Blockchain, Smart contract security, Zeroknowledge proof, Defi
 - 🌱 I’m currently learning Blockchain development and Smart contract vulnerabilities
 - 📫 How to reach me abhaysingh.eth11@gmail.com
