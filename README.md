@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhay
-- 👀 I’m interested in Blockchain, Smart contract security, Zeroknowledge proof, Defi
+- 👀 I’m interested in Blockchain Development, Smart contract security, Zero-knowledge proof, DeFi
 - 🌱 I’m currently learning Blockchain development and Smart contract Security
 - 📫 How to reach me abhaysingh.eth11@gmail.com
 
