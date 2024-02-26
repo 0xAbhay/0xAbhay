@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhay
 - 👀 I’m interested in Blockchain Development, Smart contract security, Zero-knowledge proof, DeFi
 - 🌱 I’m currently learning Blockchain development and Smart contract Security
-- 📫 How to reach me abhaysingh.eth11@gmail.com
+- 📫 How to reach me 0xabhay2203@gmail.com
 
 <!---
 0xAbhay/0xAbhay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
