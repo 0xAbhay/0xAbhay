@@ -9,4 +9,4 @@
 - [CodeHawks](https://profiles.cyfrin.io/u/0xabhayy)  
 - [Sherlock](https://audits.sherlock.xyz/watson/futureHack)  
 
-With over **+40 high/medium** findings across leading security platforms.
+With over **>40 high/medium** findings across leading security platforms.
