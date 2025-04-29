@@ -1,6 +1,6 @@
 # Smart Contract Security Portfolio
 
-I'm a smart contract security researcher passionate about uncovering vulnerabilities in DeFi protocols and consistently performing in audit contests. With a background in auditing diverse on-chain financial systems, I focus on protocol-level security and contribute to private and public audits across multiple ecosystems.
+I'm a smart contract security researcher. This is my portfolio, which includes both private and public audits. I've found 50+ critical, high, and medium severity issues Overall.
 
 ---
 ## 🧠 Skills
